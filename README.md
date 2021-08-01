@@ -1,6 +1,6 @@
 # Circular-Primes
 
-I had an oppourtunity to work on Project Euler - Problem #35.  The problem goes as follows: 
+I had an oppourtunity to work on Project Euler - Problem #35.  The problem is as follows: 
 
 """
 
